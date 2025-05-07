@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TW202102
-- 👀 I’m interested in programming useful stuff
-- 🌱 I’m currently learning C# + .net
-- 💞️ I’m looking to collaborate on crazy, interessting repositories
-- 📫 How to reach me: -
+- 👀 I’m interested in programming and learning new stuff
+- 🌱 I’m currently learning Unity and django
+- 💞️ I’m looking to a working student position
 
 <!---
 TW202102/TW202102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
